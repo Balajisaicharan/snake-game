@@ -20,5 +20,3 @@ The game ends if the snake collides with itself or the screen boundary.
 Your score increases each time the snake eats food, which appears as x on the screen.
 **What I Learned:**
 This project was a great exercise in handling real-time input, managing game state, and working with basic graphics in a console environment. It also helped me understand the importance of clean, human-friendly code, both for my own understanding and for sharing with others.
-
-You can add this description to your README to provide a clear, concise, and approachable overview of your project.
